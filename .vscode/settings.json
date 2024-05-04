@@ -1,4 +1,9 @@
 {
     "css.format.enable": true,
-    "files.refactoring.autoSave": true
+    "files.refactoring.autoSave": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "stdexcept": "cpp",
+        "iostream": "cpp"
+    }
 }
