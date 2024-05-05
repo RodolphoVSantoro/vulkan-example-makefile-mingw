@@ -73,6 +73,7 @@
         "Framebuffer",
         "glfw",
         "subresource",
-        "Swapchain"
+        "Swapchain",
+        "Viewports"
     ]
 }
