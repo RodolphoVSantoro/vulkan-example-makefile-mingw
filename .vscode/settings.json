@@ -72,6 +72,10 @@
     "cSpell.words": [
         "Framebuffer",
         "glfw",
+        "Multisample",
+        "multisampling",
+        "subpass",
+        "Subpasses",
         "subresource",
         "Swapchain",
         "Viewports"
